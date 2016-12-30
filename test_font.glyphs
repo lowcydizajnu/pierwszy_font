@@ -2884,15 +2884,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-<<<<<<< HEAD
-<<<<<<< HEAD
 lastChange = "2016-12-30 12:08:27 +0000";
-=======
-lastChange = "2016-12-30 12:10:20 +0000";
->>>>>>> parent of de059d6... plik_wyjsciowy
-=======
-lastChange = "2016-12-30 12:10:20 +0000";
->>>>>>> parent of de059d6... plik_wyjsciowy
 layers = (
 {
 layerId = "B235F14D-3E21-48B2-BBEC-7C0B00999912";
@@ -2900,18 +2892,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-<<<<<<< HEAD
-<<<<<<< HEAD
 "119 143 LINE",
 "119 79 OFFCURVE",
-=======
-"419 143 LINE",
-"419 79 OFFCURVE",
->>>>>>> parent of de059d6... plik_wyjsciowy
-=======
-"419 143 LINE",
-"419 79 OFFCURVE",
->>>>>>> parent of de059d6... plik_wyjsciowy
 "269 60 OFFCURVE",
 "206 60 CURVE",
 "179 60 LINE",
