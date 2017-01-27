@@ -1,8 +1,8 @@
 {
 .appVersion = "939";
 DisplayStrings = (
-DPEH,
-D
+DUPA,
+B
 );
 date = "2016-12-30 15:48:19 +0000";
 familyName = "new Font";
@@ -65,13 +65,72 @@ unicode = 0041;
 },
 {
 glyphname = B;
+lastChange = "2017-01-27 18:15:09 +0000";
 layers = (
 {
 layerId = "4FDEB90F-2C0C-4ACB-ACF7-DAF8C24482EF";
 width = 600;
+},
+{
+associatedMasterId = "4FDEB90F-2C0C-4ACB-ACF7-DAF8C24482EF";
+layerId = "47121F27-A71A-4927-9F8B-456CD1F442D7";
+name = whitney;
+paths = (
+{
+closed = 1;
+nodes = (
+"546 306 OFFCURVE",
+"487 361 OFFCURVE",
+"398 385 CURVE",
+"467 413 OFFCURVE",
+"512 466 OFFCURVE",
+"512 543 CURVE SMOOTH",
+"512 651 OFFCURVE",
+"435 725 OFFCURVE",
+"279 725 CURVE SMOOTH",
+"105 725 LINE",
+"105 0 LINE",
+"278 0 LINE SMOOTH",
+"440 0 OFFCURVE",
+"546 70 OFFCURVE",
+"546 209 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"437 465 OFFCURVE",
+"381 411 OFFCURVE",
+"274 411 CURVE SMOOTH",
+"179 411 LINE",
+"179 659 LINE",
+"277 659 LINE SMOOTH",
+"385 659 OFFCURVE",
+"437 614 OFFCURVE",
+"437 540 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"470 116 OFFCURVE",
+"399 65 OFFCURVE",
+"284 65 CURVE SMOOTH",
+"179 65 LINE",
+"179 348 LINE",
+"280 348 LINE SMOOTH",
+"398 348 OFFCURVE",
+"470 302 OFFCURVE",
+"470 205 CURVE SMOOTH"
+);
+}
+);
+width = 600;
+visible = 1;
 }
 );
 unicode = 0042;
+changeCount = 5;
 },
 {
 glyphname = C;
